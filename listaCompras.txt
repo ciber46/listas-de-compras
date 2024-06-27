@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 jesus nava
 pan
 huevos
 nose
 cloro
+=======
+chorizos
+pan batido/marraqueta
+six pack cerveza cristal
+lomo vetado
+>>>>>>> a5368059fde78c94f0a85fed87abf0c7f8107e95
